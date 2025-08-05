@@ -18,7 +18,7 @@ a {
 nav {
   background-color: #0077cc;
   padding: 1rem;
-  color: white;
+  color:#333;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -36,7 +36,7 @@ nav ul {
 }
 
 nav ul li a {
-  color: white;
+  color:#333;
   font-weight: bold;
   padding: 0.5rem;
 }
@@ -48,7 +48,7 @@ nav ul li a:hover {
 
 section.banner {
   background: url('https://via.placeholder.com/1200x300') center/cover no-repeat;
-  color: white;
+  color:#333;
   text-align: center;
   padding: 4rem 1rem;
 }
