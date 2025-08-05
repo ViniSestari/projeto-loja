@@ -204,7 +204,7 @@ export default function Carrinho() {
 ```
 
 ```css
-/* style.css */
+/* styles.css */
 
 /* Reset básico */
 * {
